@@ -1,4 +1,4 @@
-![Hello World, I am fobadara. Welcome to my page](images/heading.gif)
+<img src="images/heading.gif" alt="Hello world, I am Fobadara" width="100%">
 
   >I am a Full Stack software developer 👨‍💻 and a design enthusiast. I am passionate about technology and will gladly 🥰 seize any opportunity to improve myself.  
 
