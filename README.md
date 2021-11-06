@@ -1,17 +1,27 @@
-### Hi there 👋
+![Hello World, I am fobadara. Welcome to my page](images/heading.gif)
 
-[Hello World](images/readme-heading.gif)
-<!--
-**fobadara/fobadara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  >I am a Full Stack software developer 👨‍💻 and a design enthusiast. I am passionate about technology and will gladly 🥰 seize any opportunity to improve myself.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Fobadara GitHub stats](https://github-readme-stats.vercel.app/api?username=fobadara&show_icons=true&theme=radical)](https://github.com/fobadara/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fobadara&theme=radical)](https://github.com/fobadara/github-readme-stats)
+
+![hobbies](images/hobbies%20(1).gif)
+
+
+
+I would love to make friends with you and exchange ideas so don't just say "Hi" tell me about yourself. Contact me through:
+
+<a target="_blank"
+href="www.linkedin.com/in/fobadara"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
+<a target="_blank"
+href="https://twitter.com/fob90s"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>    <a target="_blank"
+href="mailto:fob90s@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+<a target="_blank"
+href="https://wa.me/+2349066478370"><img
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
