@@ -26,11 +26,10 @@
 > ## Hobbies 💖:
 > ### When I'm not coding 👨‍💻 I am either reading a book 📚, watching a beneficial video 📹, or spending time with my family 👪 .  
 > ### I would love 💖 to be your friend and exchange ideas with you so don't stop at "Hi", tell me about yourself and save my details. You can reach me through:
-> <a target="_blank"
-href="www.linkedin.com/in/fobadara"><img
+> <a target="_blank" href="https://www.linkedin.com/in/fob90s"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 <a target="_blank"
-href="https://twitter.com/fob90s"><img
+href="https://www.twitter.com/fob90s"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>    <a target="_blank"
 href="mailto:fob90s@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
